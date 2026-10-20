@@ -1,0 +1,11 @@
+run_id,timestamp_utc,backend,mode,http_status,challenge_markers,listing_count,page_size,total_ms,outcome,failure_type,exit_ip,exit_country,screenshot_path
+surfsky_cold_20260929_001,2026-09-29T02:20:17.783827+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12539,fail,block_403,104.53.167.232,US,screenshots/surfsky-cold/surfsky_cold_20260929_001.png
+surfsky_cold_20260929_002,2026-09-29T02:21:19.723413+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,11848,fail,block_403,98.97.83.215,US,screenshots/surfsky-cold/surfsky_cold_20260929_002.png
+surfsky_cold_20260929_003,2026-09-29T02:22:20.791375+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,11539,fail,block_403,174.206.160.17,US,screenshots/surfsky-cold/surfsky_cold_20260929_003.png
+surfsky_cold_20260929_004,2026-09-29T02:23:21.780421+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12354,fail,block_403,71.187.148.118,US,screenshots/surfsky-cold/surfsky_cold_20260929_004.png
+surfsky_cold_20260929_005,2026-09-29T02:24:23.463696+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=,0,796,15088,fail,block_403,172.56.95.246,US,screenshots/surfsky-cold/surfsky_cold_20260929_005.png
+surfsky_cold_20260929_006,2026-09-29T02:25:28.092334+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12621,fail,block_403,174.246.197.48,US,screenshots/surfsky-cold/surfsky_cold_20260929_006.png
+surfsky_cold_20260930_001,2026-09-30T07:41:10.641149+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12236,fail,block_403,46.110.200.163,US,screenshots/surfsky-cold/surfsky_cold_20260930_001.png
+surfsky_cold_20260930_002,2026-09-30T07:42:11.907081+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,14423,fail,block_403,174.202.100.35,US,screenshots/surfsky-cold/surfsky_cold_20260930_002.png
+surfsky_cold_20260930_003,2026-09-30T07:43:15.579417+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,15017,fail,block_403,172.56.28.24,US,screenshots/surfsky-cold/surfsky_cold_20260930_003.png
+surfsky_cold_20260930_004,2026-09-30T07:44:20.028949+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12091,fail,block_403,71.61.97.135,US,screenshots/surfsky-cold/surfsky_cold_20260930_004.png

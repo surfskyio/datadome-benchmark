@@ -1,0 +1,21 @@
+run_id,timestamp_utc,backend,mode,http_status,challenge_markers,listing_count,page_size,total_ms,outcome,failure_type,exit_ip,exit_country,exit_city,screenshot_path
+local_warm_20260929_001,2026-09-29T02:16:45.188493+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,21881,fail,block_403,24.1.66.173,US,US-Chicago,screenshots/local/local_warm_20260929_001.png
+local_warm_20260929_002,2026-09-29T02:17:55.763651+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15550,fail,block_403,150.221.109.12,US,US-Queens,screenshots/local/local_warm_20260929_002.png
+local_warm_20260930_001,2026-09-30T08:02:30.523456+00:00,local_chromium,warm,,Error,,,633,fail,connection_error,,,US-Chicago,
+local_warm_20260930_002,2026-09-30T08:03:16.190170+00:00,local_chromium,warm,,Error,,,601,fail,connection_error,,,US-Queens,
+local_warm_20260930_003,2026-09-30T08:04:01.824251+00:00,local_chromium,warm,,Error,,,784,fail,connection_error,,,US-Houston,
+local_warm_20260930_004,2026-09-30T08:04:47.648318+00:00,local_chromium,warm,,Error,,,582,fail,connection_error,,,US-Chicago,
+local_warm_20260930_005,2026-09-30T08:05:33.276518+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,16961,fail,block_403,150.221.96.220,US,US-Queens,screenshots/local/local_warm_20260930_005.png
+local_warm_20260930_006,2026-09-30T08:06:38.566295+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15506,fail,block_403,98.57.87.44,US,US-Houston,screenshots/local/local_warm_20260930_006.png
+local_warm_20260930_007,2026-09-30T08:07:42.753576+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15452,fail,block_403,24.1.66.173,US,US-Chicago,screenshots/local/local_warm_20260930_007.png
+local_warm_20260930_008,2026-09-30T08:08:46.743623+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15303,fail,block_403,150.221.96.220,US,US-Queens,screenshots/local/local_warm_20260930_008.png
+local_warm_20260930_009,2026-09-30T08:09:50.337885+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15539,fail,block_403,98.57.87.44,US,US-Houston,screenshots/local/local_warm_20260930_009.png
+local_warm_20260930_010,2026-09-30T08:10:55.205430+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15314,fail,block_403,24.1.66.173,US,US-Chicago,screenshots/local/local_warm_20260930_010.png
+local_warm_20260930_011,2026-09-30T08:11:59.039772+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15326,fail,block_403,150.221.96.220,US,US-Queens,screenshots/local/local_warm_20260930_011.png
+local_warm_20260930_012,2026-09-30T08:13:02.663891+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,16448,fail,block_403,73.32.220.219,US,US-Houston,screenshots/local/local_warm_20260930_012.png
+local_warm_20260930_013,2026-09-30T08:14:08.233574+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,16337,fail,block_403,24.1.66.173,US,US-Chicago,screenshots/local/local_warm_20260930_013.png
+local_warm_20260930_014,2026-09-30T08:15:13.073317+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15147,fail,block_403,150.221.96.220,US,US-Queens,screenshots/local/local_warm_20260930_014.png
+local_warm_20260930_015,2026-09-30T08:16:16.955872+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15370,fail,block_403,73.32.220.219,US,US-Houston,screenshots/local/local_warm_20260930_015.png
+local_warm_20260930_016,2026-09-30T08:17:21.000089+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15796,fail,block_403,24.1.66.173,US,US-Chicago,screenshots/local/local_warm_20260930_016.png
+local_warm_20260930_017,2026-09-30T08:18:25.287671+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15063,fail,block_403,150.221.96.220,US,US-Queens,screenshots/local/local_warm_20260930_017.png
+local_warm_20260930_018,2026-09-30T08:19:28.775111+00:00,local_chromium,warm,403,geo.captcha-delivery.com|var dd=|DataDome,0,1519,15702,fail,block_403,73.32.220.219,US,US-Houston,screenshots/local/local_warm_20260930_018.png

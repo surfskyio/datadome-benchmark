@@ -1,0 +1,3 @@
+run_id,timestamp_utc,backend,mode,http_status,challenge_markers,listing_count,page_size,total_ms,outcome,failure_type,exit_ip,exit_country,session_id,screenshot_path
+browserbase_warm_20260929_001,2026-09-29T06:24:02.995118+00:00,browserbase,warm,200,none,400,1513203,26806,pass,none,52.34.166.175,US,3a9facc7-0617-4839-b8f5-13a743e42441,screenshots/browserbase/browserbase_warm_20260929_001.png
+browserbase_warm_20260929_002,2026-09-29T06:25:18.310947+00:00,browserbase,warm,200,none,401,1518556,26936,pass,none,52.27.44.164,US,83211765-b3ac-4e38-831e-35c7f0e0b7c3,screenshots/browserbase/browserbase_warm_20260929_002.png
