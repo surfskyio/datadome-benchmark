@@ -1,11 +1,26 @@
-run_id,timestamp_utc,backend,mode,http_status,challenge_markers,listing_count,page_size,total_ms,outcome,failure_type,exit_ip,exit_country,screenshot_path
-surfsky_cold_20260929_001,2026-09-29T02:20:17.783827+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12539,fail,block_403,104.53.167.232,US,screenshots/surfsky-cold/surfsky_cold_20260929_001.png
-surfsky_cold_20260929_002,2026-09-29T02:21:19.723413+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,11848,fail,block_403,98.97.83.215,US,screenshots/surfsky-cold/surfsky_cold_20260929_002.png
-surfsky_cold_20260929_003,2026-09-29T02:22:20.791375+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,11539,fail,block_403,174.206.160.17,US,screenshots/surfsky-cold/surfsky_cold_20260929_003.png
-surfsky_cold_20260929_004,2026-09-29T02:23:21.780421+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12354,fail,block_403,71.187.148.118,US,screenshots/surfsky-cold/surfsky_cold_20260929_004.png
-surfsky_cold_20260929_005,2026-09-29T02:24:23.463696+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=,0,796,15088,fail,block_403,172.56.95.246,US,screenshots/surfsky-cold/surfsky_cold_20260929_005.png
-surfsky_cold_20260929_006,2026-09-29T02:25:28.092334+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12621,fail,block_403,174.246.197.48,US,screenshots/surfsky-cold/surfsky_cold_20260929_006.png
-surfsky_cold_20260930_001,2026-09-30T07:41:10.641149+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12236,fail,block_403,46.110.200.163,US,screenshots/surfsky-cold/surfsky_cold_20260930_001.png
-surfsky_cold_20260930_002,2026-09-30T07:42:11.907081+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,14423,fail,block_403,174.202.100.35,US,screenshots/surfsky-cold/surfsky_cold_20260930_002.png
-surfsky_cold_20260930_003,2026-09-30T07:43:15.579417+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,15017,fail,block_403,172.56.28.24,US,screenshots/surfsky-cold/surfsky_cold_20260930_003.png
-surfsky_cold_20260930_004,2026-09-30T07:44:20.028949+00:00,surfsky,cold,403,geo.captcha-delivery.com|var dd=|DataDome,0,1536,12091,fail,block_403,71.61.97.135,US,screenshots/surfsky-cold/surfsky_cold_20260930_004.png
+run_id,timestamp_utc,backend,mode,http_status,challenge_markers,listing_count,page_size,total_ms,outcome,failure_type,exit_ip,exit_country,captcha,screenshot_path
+surfsky_cold_20261022_105124,2026-10-22T09:51:24.206809+00:00,surfsky,cold,200,none,81,551746,22680,pass,none,172.59.70.17,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105124.png
+surfsky_cold_20261022_105238,2026-10-22T09:52:38.610481+00:00,surfsky,cold,200,none,80,552527,17542,pass,none,,,none,screenshots/surfsky-cold/surfsky_cold_20261022_105238.png
+surfsky_cold_20261022_105436,2026-10-22T09:54:36.385074+00:00,surfsky,cold,200,none,81,566277,10142,pass,none,75.185.153.123,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105436.png
+surfsky_cold_20261022_105532,2026-10-22T09:55:32.654118+00:00,surfsky,cold,200,none,81,559550,19936,pass,none,216.98.225.37,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105532.png
+surfsky_cold_20261022_105645,2026-10-22T09:56:45.680199+00:00,surfsky,cold,200,none,80,545770,10111,pass,none,73.70.36.42,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105645.png
+surfsky_cold_20261022_105804,2026-10-22T09:58:04.964017+00:00,surfsky,cold,200,none,80,545756,11561,pass,none,172.59.186.250,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105804.png
+surfsky_cold_20261022_105820,2026-10-22T09:58:20.163713+00:00,surfsky,cold,200,none,81,561351,10284,pass,none,69.127.110.4,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105820.png
+surfsky_cold_20261022_105831,2026-10-22T09:58:31.518644+00:00,surfsky,cold,200,none,81,556113,18885,pass,none,35.33.250.41,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105831.png
+surfsky_cold_20261022_105853,2026-10-22T09:58:53.470066+00:00,surfsky,cold,200,none,81,560349,11667,pass,none,160.32.51.163,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105853.png
+surfsky_cold_20261022_105906,2026-10-22T09:59:06.429817+00:00,surfsky,cold,200,none,81,552839,12134,pass,none,174.244.48.222,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105906.png
+surfsky_cold_20261022_105920,2026-10-22T09:59:20.029460+00:00,surfsky,cold,200,none,81,549700,12332,pass,none,67.20.8.138,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105920.png
+surfsky_cold_20261022_105933,2026-10-22T09:59:33.754439+00:00,surfsky,cold,200,none,81,550455,11892,pass,none,35.144.188.40,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105933.png
+surfsky_cold_20261022_105946,2026-10-22T09:59:46.952509+00:00,surfsky,cold,200,none,81,555110,11396,pass,none,68.35.19.79,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105946.png
+surfsky_cold_20261022_105959,2026-10-22T09:59:59.811380+00:00,surfsky,cold,200,none,82,561859,11445,pass,none,23.242.235.52,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_105959.png
+surfsky_cold_20261022_110012,2026-10-22T10:00:12.854096+00:00,surfsky,cold,200,none,82,562093,11330,pass,none,67.163.59.71,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110012.png
+surfsky_cold_20261022_110025,2026-10-22T10:00:25.576369+00:00,surfsky,cold,200,none,83,567827,10574,pass,none,45.42.149.187,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110025.png
+surfsky_cold_20261022_110037,2026-10-22T10:00:37.542831+00:00,surfsky,cold,200,none,82,559914,14783,pass,none,172.58.54.22,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110037.png
+surfsky_cold_20261022_110053,2026-10-22T10:00:53.475027+00:00,surfsky,cold,200,none,82,563353,9938,pass,none,174.198.0.228,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110053.png
+surfsky_cold_20261022_110104,2026-10-22T10:01:04.645349+00:00,surfsky,cold,200,none,81,551760,15875,pass,none,172.59.27.8,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110104.png
+surfsky_cold_20261022_110127,2026-10-22T10:01:27.065551+00:00,surfsky,cold,200,none,83,565803,12904,pass,none,76.178.18.41,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110127.png
+surfsky_cold_20261022_110141,2026-10-22T10:01:41.191497+00:00,surfsky,cold,200,none,83,561452,8715,pass,none,24.140.201.236,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110141.png
+surfsky_cold_20261022_110151,2026-10-22T10:01:51.055877+00:00,surfsky,cold,200,none,70,575404,15970,pass,none,172.58.126.41,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110151.png
+surfsky_cold_20261022_110210,2026-10-22T10:02:10.040781+00:00,surfsky,cold,200,none,81,565512,9146,pass,none,135.180.108.33,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110210.png
+surfsky_cold_20261022_110220,2026-10-22T10:02:20.334681+00:00,surfsky,cold,200,none,83,570013,10485,pass,none,97.103.124.9,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110220.png
+surfsky_cold_20261022_110231,2026-10-22T10:02:31.958555+00:00,surfsky,cold,200,none,82,562456,10913,pass,none,68.2.57.159,US,none,screenshots/surfsky-cold/surfsky_cold_20261022_110231.png
